@@ -1,0 +1,6 @@
+.env
+answers.txt
+__pycache__/
+*.pyc
+venv/
+myenv/
